@@ -8,6 +8,7 @@ def take_a_number(array, name)
 end 
 
 take_a_number (katz_deli, "Ada")
+
 def line(array) 
   if array.length == 0 
     puts "The line is currently empty."
