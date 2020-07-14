@@ -18,4 +18,4 @@ def line(array)
   end 
   puts "#{message}"
   end 
-end Write your code here.
+end
